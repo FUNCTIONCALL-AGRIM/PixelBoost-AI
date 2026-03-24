@@ -8,7 +8,7 @@ The application integrates the **PicWish Image Enhancement API** to upscale and 
 
 ## Live Demo
 
-[pixel-boost-ai.vercel.app](https://vercel.com/functioncall-agrims-projects/pixel-boost-ai)
+[[pixel-boost-ai.vercel.app](https://vercel.com/functioncall-agrims-projects/pixel-boost-ai)](https://pixel-boost-ai.vercel.app/)
 
 
 ---
