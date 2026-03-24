@@ -8,7 +8,7 @@ The application integrates the **PicWish Image Enhancement API** to upscale and 
 
 ## Live Demo
 
-(Deploy on Vercel and add your link here)
+pixel-boost-ai.vercel.app
 
 
 ---
